@@ -2,6 +2,14 @@
 
 ![image](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg){width=40%}
 
+<div style="display: flex;">
+    [<img src="imagen1.jpg" style="width: 20%;" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    [<img src="imagen2.jpg" style="width: 20%;" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    [<img src="imagen3.jpg" style="width: 20%;" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    [<img src="imagen4.jpg" style="width: 20%;" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    [<img src="imagen5.jpg" style="width: 20%;" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
+
 <!--
 **AldoCarquin/AldoCarquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
