@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [En El Lente Tv Magazine as Web Technical Director](https://enellentetvmagazine.com/) 
+- 🔭 I’m currently working on  [C|PROYECTA as Web Technical Director Developer and Digital Designer](https://www.cproyecta.cl/) [En El Lente Tv Magazine as Web Technical Director](https://enellentetvmagazine.com/) 
 - 🌱 I’m currently learning **Python** 
 - 👨‍💻 All of my projects are available at [aldocarquin.github.io/](https://aldocarquin.github.io/)
 - 💬 Ask me about **Css, html and Python** 
