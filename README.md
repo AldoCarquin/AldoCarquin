@@ -7,7 +7,7 @@
 - 🎓 **Integral Design** degree from *Pontificia Universidad Católica de Chile* + **Fullstack Certifications** (Python/Django & Java/React).
 - 🏆 Recognized as *"Líder Latino en NYC"* (2024) for technical & creative leadership in web projects.
 - 👨‍💻 Portfolio & Cases: **[aldoaldoaldo.com](https://www.aldoaldoaldo.com)**
-- 📫 Contact: `aldo.gonzalez.carquin@gmail.com` | [+56 9 8840 5221](https://wa.me/56988405221)[cite: 2]
+- 📫 Contact: `aldo.gonzalez.carquin@gmail.com` | [+56 9 8840 5221](https://wa.me/56988405221)
 - 🐱 Fun fact: *"My cat Diana has a severe fear of heights."* 🐾
 
 ---
