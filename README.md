@@ -1,12 +1,12 @@
 # 💫 About Me
 **UI/UX Designer | Web Developer | Fullstack & Creative Technologist**
 
-- 🔭 Currently available for **freelance projects & web development contracts**[cite: 2].
+- 🔭 Currently available for **freelance projects & web development contracts**.
 - 🚀 Owner & Creator of **[www.aldoaldoaldo.com](https://www.aldoaldoaldo.com)** — A custom Django-powered showcase bridging design and fullstack development.
 - 🌱 Deepening my expertise in **Python, Django, Node.js, and Modern Web Systems**.
-- 🎓 **Integral Design** degree from *Pontificia Universidad Católica de Chile* + **Fullstack Certifications** (Python/Django & Java/React)[cite: 2].
+- 🎓 **Integral Design** degree from *Pontificia Universidad Católica de Chile* + **Fullstack Certifications** (Python/Django & Java/React).
 - 🏆 Recognized as *"Líder Latino en NYC"* (2024) for technical & creative leadership in web projects.
-- 👨‍💻 Portfolio & Cases: **[aldoaldoaldo.com](https://www.aldoaldoaldo.com)**[cite: 2]
+- 👨‍💻 Portfolio & Cases: **[aldoaldoaldo.com](https://www.aldoaldoaldo.com)**
 - 📫 Contact: `aldo.gonzalez.carquin@gmail.com` | [+56 9 8840 5221](https://wa.me/56988405221)[cite: 2]
 - 🐱 Fun fact: *"My cat Diana has a severe fear of heights."* 🐾
 
